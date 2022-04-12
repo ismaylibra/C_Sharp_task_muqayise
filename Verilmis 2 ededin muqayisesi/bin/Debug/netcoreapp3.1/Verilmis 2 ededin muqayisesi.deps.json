@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Verilmis 2 ededin muqayisesi/1.0.0": {
+        "runtime": {
+          "Verilmis 2 ededin muqayisesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Verilmis 2 ededin muqayisesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

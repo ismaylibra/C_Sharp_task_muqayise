@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Verilmis 2 ededin muqayisesi\Verilmis 2 ededin muqayisesi\obj\Debug\netcoreapp3.1\Verilmis 2 ededin muqayisesi.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Verilmis 2 ededin muqayisesi\Verilmis 2 ededin muqayisesi\obj\Debug\netcoreapp3.1\Verilmis 2 ededin muqayisesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Verilmis 2 ededin muqayisesi\Verilmis 2 ededin muqayisesi\obj\Debug\netcoreapp3.1\Verilmis 2 ededin muqayisesi.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Verilmis 2 ededin muqayisesi\Verilmis 2 ededin muqayisesi\obj\Debug\netcoreapp3.1\Verilmis 2 ededin muqayisesi.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Verilmis 2 ededin muqayisesi\Verilmis 2 ededin muqayisesi\obj\Debug\netcoreapp3.1\Verilmis 2 ededin muqayisesi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Verilmis 2 ededin muqayisesi\Verilmis 2 ededin muqayisesi\bin\Debug\netcoreapp3.1\Verilmis 2 ededin muqayisesi.exe
+C:\Users\ASUS\source\repos\Verilmis 2 ededin muqayisesi\Verilmis 2 ededin muqayisesi\bin\Debug\netcoreapp3.1\Verilmis 2 ededin muqayisesi.deps.json
+C:\Users\ASUS\source\repos\Verilmis 2 ededin muqayisesi\Verilmis 2 ededin muqayisesi\bin\Debug\netcoreapp3.1\Verilmis 2 ededin muqayisesi.runtimeconfig.json
+C:\Users\ASUS\source\repos\Verilmis 2 ededin muqayisesi\Verilmis 2 ededin muqayisesi\bin\Debug\netcoreapp3.1\Verilmis 2 ededin muqayisesi.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Verilmis 2 ededin muqayisesi\Verilmis 2 ededin muqayisesi\bin\Debug\netcoreapp3.1\Verilmis 2 ededin muqayisesi.dll
+C:\Users\ASUS\source\repos\Verilmis 2 ededin muqayisesi\Verilmis 2 ededin muqayisesi\bin\Debug\netcoreapp3.1\Verilmis 2 ededin muqayisesi.pdb
+C:\Users\ASUS\source\repos\Verilmis 2 ededin muqayisesi\Verilmis 2 ededin muqayisesi\obj\Debug\netcoreapp3.1\Verilmis 2 ededin muqayisesi.dll
+C:\Users\ASUS\source\repos\Verilmis 2 ededin muqayisesi\Verilmis 2 ededin muqayisesi\obj\Debug\netcoreapp3.1\Verilmis 2 ededin muqayisesi.pdb
+C:\Users\ASUS\source\repos\Verilmis 2 ededin muqayisesi\Verilmis 2 ededin muqayisesi\obj\Debug\netcoreapp3.1\Verilmis 2 ededin muqayisesi.genruntimeconfig.cache
